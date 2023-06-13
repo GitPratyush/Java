@@ -1,3 +1,4 @@
+//prime number in java
 import java.util.Scanner;
 
 public class prime {
